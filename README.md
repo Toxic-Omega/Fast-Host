@@ -10,3 +10,8 @@ If you need help watch this video!
 https://www.youtube.com/watch?v=oanK9gE0UmE
 _____________________________________________________
 Screenshots
+<br>
+<p align="center">
+<img width="44%" src="https://github.com/Toxic-Omega/Omega-Server/blob/master/Screenshot/Screenshot_1.png"/>
+</p>
+<br>
