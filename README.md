@@ -4,7 +4,7 @@ _____________________________________________________
 
 1. Download zip file "Fast-Host-master.zip"
 2. Unzip to Desktop
-3. Run "Fast-Host" as admin
+3. Run "Fast-Host.bat" as admin
 _____________________________________________________
 If you need help watch this video!
 https://www.youtube.com/watch?v=oanK9gE0UmE
