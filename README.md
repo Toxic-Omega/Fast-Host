@@ -12,6 +12,6 @@ _____________________________________________________
 Screenshots
 <br>
 <p align="center">
-<img width="60%" src="https://github.com/Toxic-Omega/Fast-Host/blob/master/Screenshot/Screenshot_1.png"/>
+<img width="100%" src="https://github.com/Toxic-Omega/Fast-Host/blob/master/Screenshot/Screenshot_1.png"/>
 </p>
 <br>
